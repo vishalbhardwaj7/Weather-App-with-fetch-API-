@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  align-items: center;
+  margin-top: 10%;
+  justify-content: center;
+}
+#link {
+  text-decoration: none;
+}
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
