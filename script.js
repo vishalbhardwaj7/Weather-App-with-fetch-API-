@@ -5,8 +5,8 @@
 //-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*//
 
 // Generate Instances
-const imagesKey = "your unsplash key";
-const key = "your weather key";
+const imagesKey = "P_es7sofbtrEGbWGF6VowVhR9gikgJg9pOPQN7k9AXA";
+const key = "4ff134f5c20eed9bcbd143fb6672c58e";
 const input = document.getElementById("searchInput");
 const searchBtn = document.getElementById("searchBtn");
 const currBtn = document.getElementById("currLocBtn");
