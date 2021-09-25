@@ -17,3 +17,6 @@ ul {
   align-items: center;
   justify-content: center;
 }
+img {
+  max-height: 250px;
+}

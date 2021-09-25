@@ -24,10 +24,9 @@ function getLocation(e) {
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(showPosition);
   } else {
-    console.log("Not supported");
+    alert("Not supported");
   }
 }
-
 // Update position by getting location from geolocation API
 
 function showPosition(position) {
