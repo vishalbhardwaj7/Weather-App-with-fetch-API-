@@ -36,6 +36,8 @@ function showPosition(position) {
   longitude = position.coords.longitude;
   date = new Date(position.timestamp);
   time1 = date.toLocaleTimeString();
+
+  
   //   Call the update webpage info function with parameters
   updateWebpage(latitude, longitude, time1, "", "auto");
 }
