@@ -29,6 +29,7 @@ function getLocation(e) {
 }
 // Update position by getting location from geolocation API
 
+//Hi, I am just trying new things HEHEHEHHEHE
 function showPosition(position) {
   latitude = position.coords.latitude;
   longitude = position.coords.longitude;
